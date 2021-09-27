@@ -1,0 +1,61 @@
+body{
+   
+    /* width: 100%;
+    height: 75vh; */
+    background: url("./atoms-electrons-pixabay-logo-logo-animation.jpg") top left;
+    background-size: cover;
+     
+    
+}
+header{
+    margin-left: 500px;
+    padding-bottom: 20px;
+    font-size: 50px;
+    color:white;
+
+}
+img{
+    border-radius: 10px;
+}
+.design1 {
+    text-align: center;
+    word-spacing: 200px;
+    color:white;
+    border-top: 10px;
+    padding: 20px;
+
+    background-color:white;
+    opacity: 0.6;
+    border-style: solid;
+    position: sticky;
+    top:0px;
+    
+   
+}
+.design2{
+    display: inline-flex;
+}
+h1{
+    text-align: center; text-decoration: underline; color: whitesmoke;
+}
+
+section div a{
+    color:black;
+    font-size: 20px;
+}
+.content1{
+    height: 100px;
+    width:500px;
+    padding-left: 150px;
+     color: whitesmoke; 
+     text-align: justify;
+     margin-left: 400px;
+}
+.content2{
+    height: 100px;
+    width:100%;
+     padding-left: 50px; 
+     color: whitesmoke; 
+     text-align: justify;
+     margin-right: 100px;
+}

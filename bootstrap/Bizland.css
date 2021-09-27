@@ -1,0 +1,57 @@
+.topnavbar{
+    background: #106eea;
+    height: 40px;
+    font-size: 18px;
+    transition: all 0.5s;
+    color:whitesmoke;
+    padding: 5px;
+}
+a i{
+    color: whitesmoke;
+    
+}
+div i span a{
+    color: whitesmoke;
+} 
+
+.design1{
+    background-color:rgb(255, 255, 255);
+    padding:15px;
+    opacity: 1.0;
+}
+.boxcontainer
+{
+    display: flex;
+    
+    justify-content: space-between;
+}
+.design2{
+    width: 102%;
+    height: 75vh;
+    background: url("./hero-bg.jpg") top left;
+    
+    background-size: cover;
+    /* position: relative; */
+    
+
+        
+}
+#a1{
+    padding: 15%;
+}
+.navbar-nav:hover{
+    color: blue;
+    text-decoration: underline;
+    transition: 5s;
+}
+#card1:hover{
+ color: white;
+ background-color: blue;
+ height: 300px;
+ 
+}
+#card1{
+    width: 100px;
+    height: 100px;
+    transition: height 2s;
+}
